@@ -1,0 +1,95 @@
+---
+label: Members
+hide_body: true
+fields:
+- name: principle_investigator
+  type: text
+  config:
+    required: false
+  label: Principle Investigator
+- name: photo
+  type: file
+  config:
+    maxSize: 64
+  label: Photo
+  description: Photo of the Principal Investigator
+- name: researchers
+  type: field_group_list
+  fields:
+  - name: name_and_description
+    type: textarea
+    default: Marley Haput
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Name and Description
+    description: The name and few details for the researcher
+  - name: photo
+    type: file
+    config:
+      maxSize: 64
+    label: Photo
+    description: The photo of the researcher
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Researchers
+  description: List of Researchers
+- name: graduate_students
+  type: field_group_list
+  fields:
+  - name: name
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Name
+  - name: photo
+    type: file
+    config:
+      maxSize: 64
+    label: Photo
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Graduate Students
+  description: List of Graduate Students
+- name: undergraduate_students
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Undergraduate Students
+  description: The names and information about undergraduate students
+- name: recent_alumni
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Recent Alumni
+  description: The list of recent alumni
+- name: other_past_students
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Other Past Students
+  description: List of other past students
+pages:
+- _data/members.yml

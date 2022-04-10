@@ -1,0 +1,96 @@
+{% include header.html %}
+
+<style>
+</style>
+
+<div class="container mt-5 pt-5">
+
+    <!-- Pull member data from the `_data` folder. -->
+    <!-- Forestry will update new members there -->
+    {% assign members = site.data.members %}
+
+    <div class="mt-5"></div>
+    <h1>Members</h1>
+    <div class="row my-5 align-items-start">
+        <div class="col-auto" style="width:250px">
+            <h3>{{ members.principle_investigator }}</h3> 
+            <b>Principle Investigator</b>
+        </div>
+        {% if members.photo %}
+        <div class="col-sm-12 col-md-12 col-lg-3">
+            <img src={{members.photo}} style="max-width:100%;"/> 
+        </div>
+        {% endif %}
+    </div>
+
+    <hr/>
+
+    <h2>Researchers</h2>
+    {% for researcher in members.researchers %}
+        <div class="row my-5">
+            <div class="col-auto" style="width:250px;">
+                <h4>{{researcher.name_and_description}}</h4>
+                <b>Researcher</b>
+            </div>
+            {% if researcher.photo %}
+            <div class="col-sm-12 col-md-12 col-lg-3">
+                <img src={{researcher.photo}} style="max-width:100%;"/> 
+            </div>
+            {% endif %}
+        </div>
+    {% endfor %}
+    <hr/ >
+
+    <h2>Graduate Students</h2>
+    {% for graduate in members.graduate_students %}
+        <div class="row my-5">
+            <div class="col-auto" style="width:250px;">
+                <h4>{{graduate.name}}</h4>
+                <b>Graduate Student</b>
+            </div>
+            {% if graduate.photo %}
+            <div class="col-sm-12 col-md-12 col-lg-3">
+                <img src={{graduate.photo}} style="max-width:100%;"/> 
+            </div>
+            {% endif %}
+        </div>
+    {% endfor %}
+
+
+    <hr/>
+
+    <h2>Undergraduate Students</h2>
+    <div>{{members.undergraduate_students | markdownify}}</div>
+    <br><br>
+
+    <h2>Recent Alumni</h2>
+    <div>{{members.recent_alumni | markdownify}}</div>
+    <br><br>
+
+    <h2>Other Past Students</h2>
+    <div>{{members.other_past_students | markdownify}}</div>
+    <br><br>
+
+    <!-- {% for members in site.data.members.new_group%}
+    <h2>{{members.name}}</h2>
+    {% for member in each.member %}
+    <div class="row mt-5">
+        {% if member.photo %}
+        <div class="col-sm-12 col-md-12 col-lg-3 pt-3">
+            <img src={{member.photo}} style="max-width:100%;"/> 
+        </div>
+        {% endif %}
+        <div class="col-sm-12 col-md-12 col-lg-9 ">
+            <div class="text-muted">
+                <h4>{{member.name}}</h4>
+                <p >{{member.qualification}}</p>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+    <hr class="mt-5" >
+    {% endfor %} -->
+</div>
+</div>
+
+{% include footer.html %}

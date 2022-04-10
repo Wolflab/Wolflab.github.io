@@ -1,0 +1,28 @@
+---
+label: Research Projects
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: This is the title of your project.
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+  default: project
+- type: file
+  name: cover
+  label: Cover Picture
+  description: This is the picture that will accompany your text.
+- name: date
+  type: datetime
+  label: Date
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+pages:
+- _posts/2022-04-11-iiygjghi.md

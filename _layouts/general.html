@@ -1,0 +1,27 @@
+{% include header.html %} 
+
+{%if page.background %}
+<div class="mt-5 pt-5">
+  <div
+    class="container p-5 mt-3 mt-md-5 mt-lg-5"
+    style="
+    background-image: url({{page.background}});
+    background-size: cover;
+    background-position: center center;
+    height: 300px;
+  "
+  >
+    <h1 class="text-light text-center font-weight-bold mt-5 pt-4">
+      {{page.title}}
+    </h1>
+  </div>
+</div>
+
+  
+{% else %}
+<div class="mt-5 pt-5"></div>
+{% endif %}
+
+<div class="container mt-5 pt-3">{{ content }}</div>
+
+{% include footer.html %}
