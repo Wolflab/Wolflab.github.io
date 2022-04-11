@@ -5,14 +5,10 @@ researchers:
     carol.rowe666@gmail.com)"
   photo: "/uploads/carol.jpg"
 graduate_students:
+- name: Drew Bryan
+  photo: "/uploads/big-drew.JPG"
 - name: Ben Cecil
   photo: "/uploads/benji.JPG"
-- name: dingdong
-  photo: "/uploads/french-marigolds-tagetes-patula-are-small-busy.jpeg"
-- name: asdfas
-  photo: "/uploads/wall-e.jpg"
-- name: Bling Blong
-  photo: "/uploads/french-marigolds-tagetes-patula-are-small-busy.jpeg"
 undergraduate_students: Now accepting applications!
 recent_alumni: |-
   [Scot Kelchner](http://www.scotkelchner.org/) – Research Associate Professor
