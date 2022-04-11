@@ -5,6 +5,8 @@ researchers:
     carol.rowe666@gmail.com)"
   photo: "/uploads/carol.jpg"
 graduate_students:
+- name: Ben Cecil
+  photo: "/uploads/benji.JPG"
 - name: dingdong
   photo: "/uploads/french-marigolds-tagetes-patula-are-small-busy.jpeg"
 - name: asdfas
