@@ -8,7 +8,7 @@ title: Publications
 
 <br />
 
-### 2020
+### 20202
 
 Rowe CA, Lichvar RW and Wolf PG (2020) How Many Tree Species of Birch Are in Alaska? Implications for Wetland Designations. Frontiers in Plant Science 11:750. [doi: 10.3389/fpls.2020.00750](https://www.frontiersin.org/articles/10.3389/fpls.2020.00750/full)
 
