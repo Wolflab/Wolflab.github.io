@@ -5,6 +5,8 @@ researchers:
     carol.rowe666@gmail.com)"
   photo: "/uploads/carol.jpg"
 graduate_students:
+- name: Rijan Dhakal
+  photo: "/uploads/myself.JPG"
 - name: Drew Bryan
   photo: "/uploads/big-drew.JPG"
 - name: Ben Cecil
