@@ -18,7 +18,7 @@
         </div>
         {% if members.photo %}
         <div class="col-sm-12 col-md-12 col-lg-3">
-            <img src={{members.photo}} style="max-width:100%;"/> 
+            <img src="{{members.photo}}" style="max-width:100%;"/> 
         </div>
         {% endif %}
     </div>
@@ -29,12 +29,12 @@
     {% for researcher in members.researchers %}
         <div class="row my-5">
             <div class="col-auto" style="width:250px;">
-                <h4>{{researcher.name_and_description}}</h4>
-                <b>Researcher</b>
+                <h4>{{researcher.name}}</h4>
+                <p>{{researcher.description}}</p>
             </div>
-            {% if researcher.photo %}
+            {% if researcher.photo and researcher.photo != ''%}
             <div class="col-sm-12 col-md-12 col-lg-3">
-                <img src={{researcher.photo}} style="max-width:100%;"/> 
+                <img src="{{researcher.photo}}" style="max-width:100%;"/> 
             </div>
             {% endif %}
         </div>
@@ -46,50 +46,56 @@
         <div class="row my-5">
             <div class="col-auto" style="width:250px;">
                 <h4>{{graduate.name}}</h4>
-                <b>Graduate Student</b>
+                <p>{{graduate.description}}</p>
             </div>
-            {% if graduate.photo %}
+            {% if graduate.photo and graduate.photo != '' %}
             <div class="col-sm-12 col-md-12 col-lg-3">
-                <img src={{graduate.photo}} style="max-width:100%;"/> 
+                <img src="{{graduate.photo}}" style="max-width:100%; "/> 
             </div>
             {% endif %}
         </div>
     {% endfor %}
-
-
     <hr/>
 
+
     <h2>Undergraduate Students</h2>
-    <div>{{members.undergraduate_students | markdownify}}</div>
-    <br><br>
+    {% for undergraduate in members.undergraduate_students %}
+        <div class="row my-5">
+            <div class="col-auto" style="width:250px;">
+                <h4>{{undergraduate.name}}</h4>
+                <p>{{undergraduate.description}}</p>
+            </div>
+            {% if undergraduate.photo and undergraduate.photo != '' %}
+            <div class="col-sm-12 col-md-12 col-lg-3">
+                <img src="{{undergraduate.photo}}" style="max-width:100%;"/> 
+            </div>
+            {% endif %}
+        </div>
+    {% endfor %}
+    <hr/>
+
 
     <h2>Recent Alumni</h2>
-    <div>{{members.recent_alumni | markdownify}}</div>
-    <br><br>
+    {% for alumni in members.recent_alumni %}
+        <div class="row my-5">
+            <div class="col-auto" style="width:250px;">
+                <h4>{{alumni.name}}</h4>
+                <p>{{alumni.description}}</p>
+            </div>
+            {% if alumni.photo and alumni.photo != ''%}
+            <div class="col-sm-12 col-md-12 col-lg-3">
+                <img src="{{alumni.photo}}" style="max-width:100%;"/> 
+            </div>
+            {% endif %}
+        </div>
+    {% endfor %}
+    <hr/>
+
 
     <h2>Other Past Students</h2>
     <div>{{members.other_past_students | markdownify}}</div>
     <br><br>
 
-    <!-- {% for members in site.data.members.new_group%}
-    <h2>{{members.name}}</h2>
-    {% for member in each.member %}
-    <div class="row mt-5">
-        {% if member.photo %}
-        <div class="col-sm-12 col-md-12 col-lg-3 pt-3">
-            <img src={{member.photo}} style="max-width:100%;"/> 
-        </div>
-        {% endif %}
-        <div class="col-sm-12 col-md-12 col-lg-9 ">
-            <div class="text-muted">
-                <h4>{{member.name}}</h4>
-                <p >{{member.qualification}}</p>
-            </div>
-        </div>
-    </div>
-    {% endfor %}
-    <hr class="mt-5" >
-    {% endfor %} -->
 </div>
 </div>
 
