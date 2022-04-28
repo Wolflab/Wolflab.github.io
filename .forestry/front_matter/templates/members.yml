@@ -16,7 +16,7 @@ fields:
 - name: researchers
   type: field_group_list
   fields:
-  - name: name_and_description
+  - name: name
     type: textarea
     default: Marley Haput
     config:
@@ -24,14 +24,24 @@ fields:
       wysiwyg: false
       schema:
         format: markdown
-    label: Name and Description
-    description: The name and few details for the researcher
+    description: The name of researcher.
+    label: Name
   - name: photo
     type: file
     config:
       maxSize: 64
     label: Photo
     description: The photo of the researcher
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Description
+    description: Few details of the researcher.
   config:
     min: 
     max: 
@@ -50,11 +60,22 @@ fields:
       schema:
         format: markdown
     label: Name
+    description: Full name of student
   - name: photo
     type: file
     config:
       maxSize: 64
     label: Photo
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Description
+    description: Few details of student.
   config:
     min: 
     max: 
@@ -62,25 +83,67 @@ fields:
   label: Graduate Students
   description: List of Graduate Students
 - name: undergraduate_students
-  type: textarea
-  default: ''
+  type: field_group_list
+  fields:
+  - name: name
+    type: text
+    config:
+      required: false
+    label: Name
+    description: Full name of the student.
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Description
+    description: Few details of student.
+  - name: photo
+    type: file
+    config:
+      maxSize: 64
+    label: Photo
+    description: Photo of the student.
   config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
+    min: 
+    max: 
+    labelField: 
   label: Undergraduate Students
-  description: The names and information about undergraduate students
+  description: The name and details of undergraduate students.
 - name: recent_alumni
-  type: textarea
-  default: ''
+  type: field_group_list
+  fields:
+  - name: name
+    type: text
+    config:
+      required: false
+    label: Name
+    description: Full name of alumni.
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Description
+    description: Few details of alumni.
+  - name: photo
+    type: file
+    config:
+      maxSize: 64
+    label: Photo
+    description: Photo of alumni.
   config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
+    min: 
+    max: 
+    labelField: 
   label: Recent Alumni
-  description: The list of recent alumni
+  description: Name and details of recent alumni.
 - name: other_past_students
   type: textarea
   default: ''

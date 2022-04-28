@@ -1,43 +1,82 @@
 ---
 principle_investigator: Paul Wolf
+photo: "/uploads/paul-wolf-lab.JPG"
 researchers:
-- name_and_description: "Carol Rowe – Adjunct Research Assistant Professor \n(Email:
-    carol.rowe666@gmail.com)"
-  photo: "/uploads/carol.jpg"
+- name: Carol Rowe
+  photo: "/uploads/researcher.jpg"
+  description: 'Adjunct Research Assistant Professor (Email: carol.rowe666@gmail.com)'
 graduate_students:
-- name: Rijan Dhakal
-  photo: "/uploads/myself.JPG"
-- name: Drew Bryan
-  photo: "/uploads/big-drew.JPG"
 - name: Ben Cecil
-  photo: "/uploads/benji.JPG"
-undergraduate_students: Now accepting applications!
-recent_alumni: |-
-  [Scot Kelchner](http://www.scotkelchner.org/) – Research Associate Professor
+  photo: "/uploads/grad3.JPG"
+  description: ''
+- name: Drew Bryan
+  photo: "/uploads/grad2.JPG"
+  description: ''
+- photo: "/uploads/grad1.JPG"
+  description: A graduate student.
+  name: Rijan Dhakal
+undergraduate_students:
+- description: ''
+  photo: ''
+  name: George Martin
+- name: Samy Pel
+  description: ''
+  photo: ''
+recent_alumni:
+- name: Tanner Robison
+  description: now a PhD student at Cornell University
+  photo: ''
+- name: Hardeep Rai
+  description: "(post doc 2010 – 2013)"
+  photo: ''
+- name: Scot Kelchner
+  description: 'Research Associate Professor. '
+  photo: ''
+other_past_students: |-
+  Jenessa Lemon (2018) – medical school
 
-  [Hardeep Rai](http://hrai.wordpress.com/) – (post doc 2010 – 2013)
+  [Martin Schilling](https://www.uibk.ac.at/ecology/staff/persons/schilling.html.en) (PhD 2016)- Post doc Universität Innsbruck
 
-  [Tanner Robison](https://tarobison.github.io/) – now a PhD student at Cornell University
-other_past_students: "Jenessa Lemon (2018) – medical school\n\n[Martin Schilling](https://www.uibk.ac.at/ecology/staff/persons/schilling.html.en)
-  (PhD 2016)- Post doc Universität Innsbruck\n\n[Aaron Duffy](http://www.aduffy70.org/)
-  (PhD 2015)- Now post-doc at Duke University\n\n[Joshua Der](http://www.fullerton.edu/biology/People/faculty/derjp.php)
-  (PhD 2010). Assistant Professor, [California State Fullerton](http://www.fullerton.edu/biology/People/faculty/derjp.php)
-  started Jan 2015\n\nJacob Davidson (MS 2010). Northeast Regional Habitat Biologist
-  for the New Mexico Department of Game and Fish.\n\nMark Ellis (PhD 2009). Now USU
-  instructor teaching Evolution\n\nJessie Roper (MS 2007). USDA Poisonous Plant Lab\n\nKellon
-  Hansen (BS 2007) MD University of Utah, 2011. Now a radiologist at University of
-  Arizona  \n  \nTiffany Healy (BS 2007).   \n  \nJeran Stratford (BS 2007). PhD (2014)
-  UNC Pharmacology, now working on MS in Biostats  \n  \nRochelle Gainer (BS 2006).
-  \  \n  \nLee Bjerregaard (MS 2005). Teaching in central Utah  \n  \n[Sedonia Sipes
-  (](http://plantbiology.siu.edu/faculty-staff/faculty/graduate-faculty/sipes.php)PhD
-  2000)., Associate Professor at Southern Illinois University  \n  \nDiane Rowe (MS
-  1999). Currently at University of Tasmania  \n  \nCarrie McCracken (MS 1998). Smithsonian
-  Institution  \n  \nMartha White (BS 1998)   \n  \nAndrea Homer (BS 1998)   \n  \nMike
-  Martines (BS 1998). Systems Engineer  \n  \n[Jenny Archibald](http://naturalhistory.ku.edu/botany/people/jenny-archibald)
-  (BS 1997). Biodiversity Institute & Natural History Museum, University of Kansas.
-  \ \n  \nLaura Hickerson Duff (MS 1997).   \n  \n[Ashley Egan](http://botany.si.edu/staff/staffPage.cfm?ThisName=107&homepage=no)
-  (BS 1997). Research Botanist & Assistant Curator, Smithsonian Institution  \n  \nRoy
-  Murray (PhD 1997).   \n  \n[David Perault](http://perault-d.web.lynchburg.edu/)
-  MMS 1995). Lynchburg College, VA.  \n  \n[Jennifer Barnes](http://frontierscientists.com/scientists/jennifer-barnes/)
-  (MS 1995). Alaska Regional Fire Ecologist, National Park Service"
-photo: "/uploads/paul.JPG"
+  [Aaron Duffy](http://www.aduffy70.org/) (PhD 2015)- Now post-doc at Duke University
+
+  [Joshua Der](http://www.fullerton.edu/biology/People/faculty/derjp.php) (PhD 2010). Assistant Professor, [California State Fullerton](http://www.fullerton.edu/biology/People/faculty/derjp.php) started Jan 2015
+
+  Jacob Davidson (MS 2010). Northeast Regional Habitat Biologist for the New Mexico Department of Game and Fish.
+
+  Mark Ellis (PhD 2009). Now USU instructor teaching Evolution
+
+  Jessie Roper (MS 2007). USDA Poisonous Plant Lab
+
+  Kellon Hansen (BS 2007) MD University of Utah, 2011. Now a radiologist at University of Arizona
+
+  Tiffany Healy (BS 2007).
+
+  Jeran Stratford (BS 2007). PhD (2014) UNC Pharmacology, now working on MS in Biostats
+
+  Rochelle Gainer (BS 2006).
+
+  Lee Bjerregaard (MS 2005). Teaching in central Utah
+
+  [Sedonia Sipes (](http://plantbiology.siu.edu/faculty-staff/faculty/graduate-faculty/sipes.php)PhD 2000)., Associate Professor at Southern Illinois University
+
+  Diane Rowe (MS 1999). Currently at University of Tasmania
+
+  Carrie McCracken (MS 1998). Smithsonian Institution
+
+  Martha White (BS 1998)
+
+  Andrea Homer (BS 1998)
+
+  Mike Martines (BS 1998). Systems Engineer
+
+  [Jenny Archibald](http://naturalhistory.ku.edu/botany/people/jenny-archibald) (BS 1997). Biodiversity Institute & Natural History Museum, University of Kansas.
+
+  Laura Hickerson Duff (MS 1997).
+
+  [Ashley Egan](http://botany.si.edu/staff/staffPage.cfm?ThisName=107&homepage=no) (BS 1997). Research Botanist & Assistant Curator, Smithsonian Institution
+
+  Roy Murray (PhD 1997).
+
+  [David Perault](http://perault-d.web.lynchburg.edu/) MMS 1995). Lynchburg College, VA.
+
+  [Jennifer Barnes](http://frontierscientists.com/scientists/jennifer-barnes/) (MS 1995). Alaska Regional Fire Ecologist, National Park Service
