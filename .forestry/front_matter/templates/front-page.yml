@@ -2,6 +2,22 @@
 label: Front Page
 hide_body: true
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  default: Welcome to the Lab!
+  label: Title
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html
+  label: Description
+  description: Description of Website
 - name: recent_publications
   type: list
   config:
