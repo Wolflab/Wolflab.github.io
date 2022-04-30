@@ -1,4 +1,38 @@
 ---
 label: Front Page
 hide_body: true
-fields: []
+fields:
+- name: recent_publications
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Recent Publications
+  description: Add new publications here. And remove those that fail your test of
+    recency while you're here.
+- name: latest_news
+  type: field_group_list
+  fields:
+  - name: name
+    type: number
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+    label: Date
+  - name: news
+    type: list
+    config:
+      use_select: false
+      min: 
+      max: 
+    label: News
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Latest News
+  description: Add new news events here (and remove old ones while you're here)
