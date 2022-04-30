@@ -1,9 +1,9 @@
 ---
 layout: general
 title: News
-background: https://paulwolflab.com/wp-content/uploads/2019/10/Hymenophyllum-myriocarpum-by-Michael-Sundue.jpg
-
+background: /uploads/Hymenophyllum-myriocarpum-by-Michael-Sundue.jpg
 ---
+
 ### 2022
 
 The paper "Why do heterosporous plants have so few chromosomes", is now published.

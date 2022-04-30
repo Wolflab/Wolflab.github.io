@@ -1,9 +1,9 @@
 ---
 layout: general
-background: https://paulwolflab.com/wp-content/uploads/2019/10/Pleopeltis-alborufula.jpg
+background: /uploads/Pleopeltis-alborufula.jpg
 title: Prospective Students
-
 ---
+
 My research program centers around Plant evolutionary genomics. See the research projects tab and publication tab to see examples of recent research. I am currently seeking masters (Biological Sciences) and PhD (Biotechnology) level students to join my research group.
 
 You can visit the UAH site for more details on the requirements of the programs and the application process, for masters students and for PhD students.

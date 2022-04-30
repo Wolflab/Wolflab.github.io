@@ -1,6 +1,6 @@
 ---
 layout: general
-background: https://paulwolflab.com/wp-content/uploads/2019/10/Hymenophyllum-myriocarpum-by-Michael-Sundue.jpg
+background: /uploads/Hymenophyllum-myriocarpum-by-Michael-Sundue.jpg
 title: Software, Data, Protocols
 ---
 

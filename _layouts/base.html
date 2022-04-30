@@ -3,7 +3,7 @@
 <div
   class="container-fluid p-5"
   style="
-    background-image: url(https://paulwolflab.com/wp-content/uploads/2019/10/mountains.jpg);
+    background-image: url(/uploads/mountains.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -15,16 +15,8 @@
       class="col-12 col-xxl-4 col-xl-5 col-lg-6 col-md-8 p-4 text-light"
       style="background-color: #0005; border-radius: 5px"
     >
-      <h1>Welcome to the Lab!</h1>
-      <p class="lead">
-        Research in my lab focuses on plant evolutionary biology, spanning
-        population genetics to deep phylogeny. My main interest is in ferns
-        (including Pteridium and Ceratopteris), but students in the lab are also
-        working on flowering plants, including Eriogonum, Populus, Allenrolfea,
-        Betula, and Boechera. The lab uses a wide array of tools, including
-        next-generation genomic sequencing, RNA-seq, Rad-seq (GBS), single-gene
-        Sanger sequencing, microsatellites, and AFLPs.
-      </p>
+      <h1>{{site.data.frontpage.title}}</h1>
+      <p class="lead">{{site.data.frontpage.description}}</p>
       <hr class="my-4" />
       <h3>What Brings You to the Wolf Lab Today?</h3>
       <p class="d-flex justify-content-between">
@@ -53,13 +45,6 @@
       {% for news in year.news %}
       <p>{{news}}</p>
       {% endfor %} {% endfor %}
-
-      <!-- <h3>2020</h3>
-      <p>
-        February 2020: Sylvia’s paper “Mothers of Pteridology” published in the
-        American Fern Journal
-      </p>
-      <p>June 2020: Alaskan Betula paper published</p> -->
     </div>
     <div class="col-sm-12 col-md-12 col-lg-6">
       <h3>Recent Publications</h3>

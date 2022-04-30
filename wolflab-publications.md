@@ -1,9 +1,9 @@
 ---
 layout: general
-background: https://paulwolflab.com/wp-content/uploads/2019/10/Hymenophyllum-asplenioides-by-Nathan-Smith.jpg
+background: /uploads/Hymenophyllum-asplenioides-by-Nathan-Smith.jpg
 title: Publications
-
 ---
+
 ## [Link to my Profile on Google Scholar](https://scholar.google.com/citations?hl=en&user=Du0z0PUAAAAJ&view_op=list_works&sortby=pubdate)
 
 <br />
@@ -132,7 +132,7 @@ Campbell, D. T., S. W. Wang, H‐Y. Hsu, A. M. Duffy, and P. G. Wolf. 2010. Lear
 
 Wolf, P. G., Roper, J. M., Duffy, A. M. 2010. The evolution of chloroplast genome structure in ferns. Genome 53: 731-738.
 
-Oliver, M. J., A. G. Murdock, B. D. Mishler, J. V. Kuehl, J. L. Boore, D. F. Mandoli, K. D. E. Everett, P. G. Wolf, *A. M. Duffy, K. G. Karol. 2010. Chloroplast genome sequence of the moss Tortula ruralis: gene content, polymorphism, and structural arrangement relative to other green plant chloroplast genomes. BMC Genomics 2010, 11:143
+Oliver, M. J., A. G. Murdock, B. D. Mishler, J. V. Kuehl, J. L. Boore, D. F. Mandoli, K. D. E. Everett, P. G. Wolf, \*A. M. Duffy, K. G. Karol. 2010. Chloroplast genome sequence of the moss Tortula ruralis: gene content, polymorphism, and structural arrangement relative to other green plant chloroplast genomes. BMC Genomics 2010, 11:143
 
 Barker, M. S. and P. G. Wolf. 2010. Unfurling fern biology in the genomics age. BioScience 60(3): 177-185.
 
@@ -216,7 +216,7 @@ Smith, A. R., H. Tuomisto, K. M. Pryer, J. S. Hunt, P. G. Wolf. 2001. Metaxya la
 
 Archibald J.K., P.G. Wolf, V. J. Tepedino, and J. Bair. 2001. Genetic relationships and population structure of the endangered steamboat buckwheat, Eriogonum ovalifolium var. williamsiae (Polygonaceae). American Journal of Botany 88: 608-615.
 
-Wolf, P. G., D. R. Campbell, N. M. Waser, *S. D. Sipes, T. R. Toler, and &J. K. Archibald. 2001. Tests of pre-and post-pollination barriers to hybridization between sympatric species of Ipomopsis (Polemoniaceae). American Journal of Botany 88: 213-219.
+Wolf, P. G., D. R. Campbell, N. M. Waser, \*S. D. Sipes, T. R. Toler, and &J. K. Archibald. 2001. Tests of pre-and post-pollination barriers to hybridization between sympatric species of Ipomopsis (Polemoniaceae). American Journal of Botany 88: 213-219.
 
 Wolf, P. G., H. Schneider, and T. A. Ranker. 2001. Geographic distributions of homosporous fern taxa: does dispersal obscure evidence of vicariance? Journal of Biogeography 28: 263-270.
 
