@@ -5,11 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: _data/members.yml
-  label: Members
-- type: document
   path: _data/frontpage.yml
   label: Frontpage
+- type: document
+  path: _data/members.yml
+  label: Members
 - type: directory
   path: _notes
   label: Notes
@@ -17,16 +17,16 @@ sections:
   match: "**/*"
   templates:
   - general
-- type: jekyll-pages
-  label: Pages
-  create: all
-  templates:
-  - general
 - type: jekyll-posts
   label: Research Projects
   create: documents
   templates:
   - research-projects
+- type: jekyll-pages
+  label: Pages
+  create: all
+  templates:
+  - general
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
