@@ -1,4 +1,0 @@
-I"µ<h3 id="fern-plastome-list">Fern Plastome List</h3>
-
-<p>Here is a list of fern plastomes published in <a href="https://www.ncbi.nlm.nih.gov/genome/browse#!/eukaryotes/">genbank</a>. You can downoad the csv below. The list includes complete plastomes as well as fragments greater than 10 kb. This list is based on a search using a Biopython script written by Carol Rowe and Paul Wolf, then rewritten in R by Tanner Robison Sept 2018.</p>
-:ET
