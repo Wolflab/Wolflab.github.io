@@ -11,14 +11,6 @@ sections:
   path: _data/frontpage.yml
   label: Frontpage
 - type: directory
-  path: _data
-  label: Members
-  create: documents
-  match: "**/*"
-  new_doc_ext: yml
-  templates:
-  - members
-- type: directory
   path: _notes
   label: Notes
   create: documents

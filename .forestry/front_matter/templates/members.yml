@@ -154,5 +154,3 @@ fields:
       format: markdown
   label: Other Past Students
   description: List of other past students
-pages:
-- _data/members.yml
