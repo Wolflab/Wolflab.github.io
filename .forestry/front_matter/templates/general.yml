@@ -13,7 +13,3 @@ fields:
 - type: file
   name: background
   label: Cover Picture
-pages:
-- _notes/coca-cola.md
-- _notes/no-picture.md
-- _notes/poka-jhola.md
