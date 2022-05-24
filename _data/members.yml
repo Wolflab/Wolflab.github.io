@@ -1,37 +1,34 @@
 ---
 principle_investigator: Paul Wolf
 photo: "/uploads/paul-wolf-lab.JPG"
-researchers:
-  - name: Carol Rowe
-    photo: "/uploads/researcher.jpg"
-    description: "Adjunct Research Assistant Professor (Email: carol.rowe666@gmail.com)"
+researchers: []
 graduate_students:
-  - name: Ben Cecil
-    photo: "/uploads/grad3.JPG"
-    description: ""
-  - name: Drew Bryan
-    photo: "/uploads/grad2.JPG"
-    description: ""
-  - photo: "/uploads/grad1.JPG"
-    description: A graduate student.
-    name: Rijan Dhakal
+- name: Ben Cecil
+  photo: "/uploads/grad3.JPG"
+  description: ''
+- name: Drew Bryan
+  photo: "/uploads/grad2.JPG"
+  description: ''
+- photo: "/uploads/grad1.JPG"
+  description: A graduate student.
+  name: Rijan Dhakal
 undergraduate_students:
-  - description: ""
-    photo: ""
-    name: George Martin
-  - name: Samy Pel
-    description: ""
-    photo: ""
+- description: ''
+  photo: ''
+  name: George Martin
+- name: Samy Pel
+  description: ''
+  photo: ''
 recent_alumni:
-  - name: Tanner Robison
-    description: now a PhD student at Cornell University
-    photo: ""
-  - name: Hardeep Rai
-    description: "(post doc 2010 – 2013)"
-    photo: ""
-  - name: Scot Kelchner
-    description: "Research Associate Professor. "
-    photo: ""
+- name: Tanner Robison
+  description: now a PhD student at Cornell University
+  photo: ''
+- name: Hardeep Rai
+  description: "(post doc 2010 – 2013)"
+  photo: ''
+- name: Scot Kelchner
+  description: 'Research Associate Professor. '
+  photo: ''
 other_past_students: |-
   Jenessa Lemon (2018) – medical school
 
