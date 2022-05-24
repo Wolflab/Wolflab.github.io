@@ -13,9 +13,9 @@ graduate_students:
   description: A graduate student.
   name: Rijan Dhakal
 undergraduate_students:
-- description: ''
-  photo: ''
-  name: George Martin
+- description: Our very diligent undergraduate member.
+  photo: "/uploads/alexa.JPG"
+  name: Alexa Nolan
 - name: Samy Pel
   description: ''
   photo: ''
