@@ -13,7 +13,7 @@ graduate_students:
   description: A graduate student.
   name: Rijan Dhakal
 undergraduate_students:
-- description: Our very diligent undergraduate member.
+- description: Our very diligent undergraduate member working with ferns.
   photo: "/uploads/alexa.JPG"
   name: Alexa Nolan
 - name: Samy Pel
