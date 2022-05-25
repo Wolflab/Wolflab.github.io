@@ -8,7 +8,8 @@ graduate_students:
   description: ''
 - name: Drew Bryan
   photo: "/uploads/grad2.JPG"
-  description: ''
+  description: Drew is interested in the effects of titanium on growth and development
+    of radishes
 - photo: "/uploads/grad1.JPG"
   description: A graduate student.
   name: Rijan Dhakal
