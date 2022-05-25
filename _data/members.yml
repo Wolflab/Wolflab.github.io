@@ -13,7 +13,7 @@ graduate_students:
   description: A graduate student.
   name: Rijan Dhakal
 undergraduate_students:
-- description: ''
+- description: Jake is working on genetics the rare plant Clematis morfieldii
   photo: "/uploads/jake.JPG"
   name: Jake Carter
 - description: Alexa is working on expression of phytochrome genes in fern gametophytes
