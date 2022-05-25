@@ -1,26 +1,36 @@
 ---
 layout: general
-background: /uploads/Hymenophyllum-asplenioides-by-Nathan-Smith.jpg
+background: "/uploads/Hymenophyllum-asplenioides-by-Nathan-Smith.jpg"
 title: Publications
----
 
+---
 ## [Link to my Profile on Google Scholar](https://scholar.google.com/citations?hl=en&user=Du0z0PUAAAAJ&view_op=list_works&sortby=pubdate)
 
 <br />
 
 ### 2022
 
+Kinosian, S.P and P.G. Wolf. 2022. The natural history of model organisms: The biology of the _C. richardii_ as a tool for understanding plant evolution. eLife 2022;11:e75019
+
+Kinosian, S.P., C.A. Rowe, P.G. Wolf. 2022. Why do heterosporous plants have so few chromosomes? Frontiers in Plant Science 13:807302. doi: 10.3389/fpls.2022.807302.
+
+Koontz A, W.D. Pearse, P.G. Wolf. 2022. Pronounced genetic separation among varieties of the _Primula cusickiana_ species complex, a Great Basin endemic. Systematic Botany In Press
+
 ### 2020
 
 Rowe CA, Lichvar RW and Wolf PG (2020) How Many Tree Species of Birch Are in Alaska? Implications for Wetland Designations. Frontiers in Plant Science 11:750. [doi: 10.3389/fpls.2020.00750](https://www.frontiersin.org/articles/10.3389/fpls.2020.00750/full)
+
+Kinosian SP, WD Pearse, and PG Wolf. 2020.There and back again: Reticulate evolution in Ceratopteris. American Fern Journal 110: 193 – 210.
+
+Kinosian SP, WD Pearse, and PG Wolf. 2020. Cryptic diversity in the model fern genus _Ceratopteris_ (Pteridaceae). Molecular Phylogenetics and Evolution 152: 106938.
 
 <br />
 
 ### 2019
 
-Marchant DB, EB Sessa, PG Wolf, K Heo, WB Barbazuk, PS Soltis, DE Soltis. 2019. The C-Fern (Ceratopteris richardii) genome: insights into plant genome evolution with the first partial homosporous fern genome assembly. Scientific Reports 9: 18181.
+Marchant DB, EB Sessa, PG Wolf, K Heo, WB Barbazuk, PS Soltis, DE Soltis. 2019. The C-Fern (_Ceratopteris richardii_) genome: insights into plant genome evolution with the first partial homosporous fern genome assembly. Scientific Reports 9: 18181.
 
-Wolf PG, Rowe CA, Kinosian SP, Der JP, Lockhart PJ, Shepherd LD, McLenachan PA, Thomson JA. 2019. Worldwide relationships in the fern genus Pteridium (bracken) based on nuclear genome markers. American Journal of Botany 106(10): 1365–1376
+Wolf PG, Rowe CA, Kinosian SP, Der JP, Lockhart PJ, Shepherd LD, McLenachan PA, Thomson JA. 2019. Worldwide relationships in the fern genus _Pteridium_ (bracken) based on nuclear genome markers. American Journal of Botany 106(10): 1365–1376
 
 Rowe CA, PG Wolf, RW Lichvar. 2019. Do genetic differences explain the ability of an alkaline shrub to grow in both uplands and wetlands? Western North American Naturalist: 79: 260–269
 
@@ -34,11 +44,11 @@ Robison TA and PG Wolf. 2019. ReFernment: an R package for annotating RNA editin
 
 Robison TA, Grusz AL, Wolf PG, Mower JP, Fauskee BD, Sosa K, Schuettpelz E. 2018. Mobile elements shape plastome evolution in ferns. Genome Biology and Evolution [10: 2558–2571](https://academic.oup.com/gbe/article/10/10/2558/5079404)
 
-Lemon, JB and PG Wolf. 2018. Genetic differentiation between endemic Eriogonum soredium and its common relative E. shockleyi (Polygonaceae). [Systematic Botany 43: 901-909](https://www.ingentaconnect.com/contentone/aspt/sb/2018/00000043/00000004/art00005)
+Lemon, JB and PG Wolf. 2018. Genetic differentiation between endemic _Eriogonum soredium_ and its common relative E. shockleyi (Polygonaceae). [Systematic Botany 43: 901-909](https://www.ingentaconnect.com/contentone/aspt/sb/2018/00000043/00000004/art00005)
 
-Ellis, MW, PG Wolf, CA Rowe. 2018. Field identification of Eriogonum corymbosum vars. nilesii and aureum (Polygonaceae). [Phytotaxa 382: 293–296](https://www.mapress.com/pt/issue/view/phytotaxa.382.3)
+Ellis, MW, PG Wolf, CA Rowe. 2018. Field identification of _Eriogonum corymbosum_ vars. _nilesii_ and _aureum_ (Polygonaceae). [Phytotaxa 382: 293–296](https://www.mapress.com/pt/issue/view/phytotaxa.382.3)
 
-Rowe, CA, Hauber, DP, Wolf PG. 2018. Genomic variation of introduced Salvinia minima in southeastern United States. [Aquatic Botany 151: 38-42](https://doi.org/10.1016/j.aquabot.2018.07.011)
+Rowe, CA, Hauber, DP, Wolf PG. 2018. Genomic variation of introduced _Salvinia minima_ in southeastern United States. [Aquatic Botany 151: 38-42](https://doi.org/10.1016/j.aquabot.2018.07.011)
 
 Li, F-W et al, TA Robison, PG Wolf. 2018. Fern genomes elucidate land plant evolution and cyanobacterial symbioses. [Nature Plants 4: 460–472](https://www.nature.com/articles/s41477-018-0188-8).
 
@@ -132,7 +142,7 @@ Campbell, D. T., S. W. Wang, H‐Y. Hsu, A. M. Duffy, and P. G. Wolf. 2010. Lear
 
 Wolf, P. G., Roper, J. M., Duffy, A. M. 2010. The evolution of chloroplast genome structure in ferns. Genome 53: 731-738.
 
-Oliver, M. J., A. G. Murdock, B. D. Mishler, J. V. Kuehl, J. L. Boore, D. F. Mandoli, K. D. E. Everett, P. G. Wolf, \*A. M. Duffy, K. G. Karol. 2010. Chloroplast genome sequence of the moss Tortula ruralis: gene content, polymorphism, and structural arrangement relative to other green plant chloroplast genomes. BMC Genomics 2010, 11:143
+Oliver, M. J., A. G. Murdock, B. D. Mishler, J. V. Kuehl, J. L. Boore, D. F. Mandoli, K. D. E. Everett, P. G. Wolf, *A. M. Duffy, K. G. Karol. 2010. Chloroplast genome sequence of the moss Tortula ruralis: gene content, polymorphism, and structural arrangement relative to other green plant chloroplast genomes. BMC Genomics 2010, 11:143
 
 Barker, M. S. and P. G. Wolf. 2010. Unfurling fern biology in the genomics age. BioScience 60(3): 177-185.
 
@@ -216,7 +226,7 @@ Smith, A. R., H. Tuomisto, K. M. Pryer, J. S. Hunt, P. G. Wolf. 2001. Metaxya la
 
 Archibald J.K., P.G. Wolf, V. J. Tepedino, and J. Bair. 2001. Genetic relationships and population structure of the endangered steamboat buckwheat, Eriogonum ovalifolium var. williamsiae (Polygonaceae). American Journal of Botany 88: 608-615.
 
-Wolf, P. G., D. R. Campbell, N. M. Waser, \*S. D. Sipes, T. R. Toler, and &J. K. Archibald. 2001. Tests of pre-and post-pollination barriers to hybridization between sympatric species of Ipomopsis (Polemoniaceae). American Journal of Botany 88: 213-219.
+Wolf, P. G., D. R. Campbell, N. M. Waser, *S. D. Sipes, T. R. Toler, and &J. K. Archibald. 2001. Tests of pre-and post-pollination barriers to hybridization between sympatric species of Ipomopsis (Polemoniaceae). American Journal of Botany 88: 213-219.
 
 Wolf, P. G., H. Schneider, and T. A. Ranker. 2001. Geographic distributions of homosporous fern taxa: does dispersal obscure evidence of vicariance? Journal of Biogeography 28: 263-270.
 
