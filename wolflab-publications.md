@@ -16,6 +16,10 @@ Kinosian, S.P., C.A. Rowe, P.G. Wolf. 2022. Why do heterosporous plants have so 
 
 Koontz A, W.D. Pearse, P.G. Wolf. 2022. Pronounced genetic separation among varieties of the _Primula cusickiana_ species complex, a Great Basin endemic. Systematic Botany In Press
 
+### 2021
+
+Wolf, P. G. 2021. Cellular Processes: Chromosome number pattern seen in ferns. Open Access Government Jan 2021: 234-235.
+
 ### 2020
 
 Rowe CA, Lichvar RW and Wolf PG (2020) How Many Tree Species of Birch Are in Alaska? Implications for Wetland Designations. Frontiers in Plant Science 11:750. [doi: 10.3389/fpls.2020.00750](https://www.frontiersin.org/articles/10.3389/fpls.2020.00750/full)
