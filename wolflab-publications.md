@@ -52,7 +52,7 @@ Rowe, CA, Hauber, DP, Wolf PG. 2018. Genomic variation of introduced _Salvinia m
 
 Li, F-W et al, TA Robison, PG Wolf. 2018. Fern genomes elucidate land plant evolution and cyanobacterial symbioses. [Nature Plants 4: 460–472](https://www.nature.com/articles/s41477-018-0188-8).
 
-Schilling MP, Gompert Z, Li F-W, Windham MD, Wolf PG. 2018. Admixture, evolution, and variation in reproductive isolation in the Boechera puberula clade. [BMC Evolutionary Biology 18: 61](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-018-1173-6)
+Schilling MP, Gompert Z, Li F-W, Windham MD, Wolf PG. 2018. Admixture, evolution, and variation in reproductive isolation in the _Boechera puberula_ clade. [BMC Evolutionary Biology 18: 61](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-018-1173-6)
 
 Wolf, PG, Robison TA, Johnson MG, Sundue MA, Testo WL, Rothfels CJ. 2018. Target Sequence Capture of Nuclear-Encoded Genes for Phylogenetic Analysis in Ferns. [Applications in Plant Sciences 6(5): e1148](https://onlinelibrary.wiley.com/doi/full/10.1002/aps3.1148)
 
@@ -78,21 +78,21 @@ Wolf PG, Rowe CA, Der JP, Schilling MP, Visger CJ, Thomson J. 2015. Origins and 
 
 Wolf PG, Sessa EB, Marchant DB, Li F-W, Rothfels CJ, Sigel EM, Gitzendanner MA, Visger CJ, Banks JA, Soltis DE, Soltis PS, Pryer KM, Der JP. 2015. An exploration into fern genome space. Genome Biology and Evolution 7: 2533-2544. [DOI: 10.1093/gbe/evv163](https://watermark.silverchair.com/evv163.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAr0wggK5BgkqhkiG9w0BBwagggKqMIICpgIBADCCAp8GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMsO4WC79oyZTipxuaAgEQgIICcLrz433HRhVj-0sAiOFrzJHwtv192j93dEWEbKzkhkbevV4VTUBtU9WY7ICfdH6X5PSLASvnlaMsB5ZJ0dof_KRFQI-xbHk5Y13oCTRWniV7fenp3CtgdskIqbsSNrtCjK6O4R8I03N2Ltr8kuQQPUtxXHzQcryvXSg4bkcS4JJ83lHUnufA1bsOeKMDNtzbi1jXJPcIK2VQrPCOIgkHHusdMb7UqLmeY4pqKPTp_3qOyvXFdwHoL6RZnxFEOOAY585H3XaF5yiQc4QzRKC5qdsJ8Zq6FryCS5EhSu6ML6ipJHw0chYA6BN4TiWx2843s6Y_qkfqnVFE1FhT8W133kPAMZoXVXpp7nI6jzJbwmObhsQ2g5Rgnyybk4yz9gTMWQv_uBihzewZH97W4V9Of5N8RAI060N6V1zhNF59X-zNtW1TD3mciZQikxTz0pSfbulCCr7aAG-PWyana_8HUehb35ajxEMmBQ9w4Q6hXnQyswgVBVnpTH_BvgxKs0EL1QhW4WjC_lR4egb4s_Jzg05H9YDYxhFpSEdJWdkLCn6ACjiujlgYBoIzDJk1BwYdh7CopiIwl9l5lmG4oDtnX9PAcb-9k4carmef0G6TNBrLciKe6qVlp7APu83pbEl_keEDREc5ibcJVKH3k8aGJU8pwSIm8WYtczqXDWSYx7yv3f6Jmup7ykWF9CIpZD9Ght1c2u0VFNawF8NP78s4Bq-Mu6L-iefSeqz00HzjBVOOVSyjFz6qMAEW5afNm9diAHQAaVbPTBSAAfuTWcE-uFCQltwoVazMQzLBKKH_qgOeb5sbgBHQE4F5Bqzvr7VHCA)
 
-Ellis M.W., P.G. Wolf, S. Bardot, J.A. Walton, C.A. Rowe, S. Kulpa, and KA. Mock. 2015. Further Examination of the Geographic Range of Eriogonum corymbosum var. nilesii (Polygonaceae). [Phytotaxa 203: 279–286](https://www.mapress.com/phytotaxa/content/2015/f/p00203p286f.pdf)
+Ellis M.W., P.G. Wolf, S. Bardot, J.A. Walton, C.A. Rowe, S. Kulpa, and KA. Mock. 2015. Further Examination of the Geographic Range of _Eriogonum corymbosum_ var. _nilesii_ (Polygonaceae). [Phytotaxa 203: 279–286](https://www.mapress.com/phytotaxa/content/2015/f/p00203p286f.pdf)
 
 <br />
 
 ### 2014
 
-Schilling, M.P., Wolf, P. G., Duffy, A. M., Rai, H. S., Richardson, B. A., Mock, K. E. 2014. Genotyping-by-sequencing for Populus population genomics: an assessment of genome sampling patterns and filtering approaches. [PLoS One 9(4): e95292](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095292).
+Schilling, M.P., Wolf, P. G., Duffy, A. M., Rai, H. S., Richardson, B. A., Mock, K. E. 2014. Genotyping-by-sequencing for _Populus_ population genomics: an assessment of genome sampling patterns and filtering approaches. [PLoS One 9(4): e95292](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095292).
 
 Sessa, E.B., J.A. Banks, M.S. Barker, J.P. Der, A.M. Duffy, S.W. Graham, M. Hasebe, J. Langdale, F.W. Li, D.B. Marchant, K.M. Pryer, C.J. Rothfels, S.J. Roux, M.L. Salmi, E.M. Sigel, D.E. Soltis, P.S. Soltis, D.W. Stevenson, and P.G. Wolf. 2014. Between two fern genomes. [GigaScience 3: 15](http://www.gigasciencejournal.com/content/3/1/15/abstract).
 
-Duffy AM, MC Stensvold, DR Farrar. 2014. Independent gametophytes of Hymenophyllum wrightii in North America: not as rare as we thought. American Fern Journal 105: 45–55.
+Duffy AM, MC Stensvold, DR Farrar. 2014. Independent gametophytes of _Hymenophyllum wrightii_ in North America: not as rare as we thought. American Fern Journal 105: 45–55.
 
 Campbell, T. D., B. A. ZuWallack, D.T, M. Longhurst, B. Shelton, P. G. Wolf. 2014. An examination of the changes in science teaching orientations and technology-enhanced tools for student learning in the context of professional development. International Journal of Science Education 36: 1815-1848.
 
-Davidson, J. B. S. L. Durham, and P. G. Wolf. 2014. Breeding system of the threatened endemic, Primula cusickiana var. maguirei (Primulaceae). [Plant Species Biology 29: e55–e63](https://esj-journals.onlinelibrary.wiley.com/doi/full/10.1111/1442-1984.12029).
+Davidson, J. B. S. L. Durham, and P. G. Wolf. 2014. Breeding system of the threatened endemic, _Primula cusickiana_ var. _maguirei_ (Primulaceae). [Plant Species Biology 29: e55–e63](https://esj-journals.onlinelibrary.wiley.com/doi/full/10.1111/1442-1984.12029).
 
 <br />
 
