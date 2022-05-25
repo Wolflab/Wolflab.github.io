@@ -24,5 +24,3 @@ fields:
     time_format: 
     display_utc: false
   default: now
-pages:
-- _posts/2022-04-11-iiygjghi.md
