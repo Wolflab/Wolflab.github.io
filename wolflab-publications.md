@@ -194,19 +194,19 @@ Wolf, P.G, K.G. Karol, D. F. Mandoli, J. Kuehl, K. Arumuganathan, M. W. Ellis, B
 
 ### 2004
 
-Wolf, P. G., C. A. Rowe, M. Hasebe. 2004. High levels of RNA editing in a vascular plant chloroplast genome: analysis of transcripts from the fern Adiantum capillus-veneris. Gene 339: 89-97
+Wolf, P. G., C. A. Rowe, M. Hasebe. 2004. High levels of RNA editing in a vascular plant chloroplast genome: analysis of transcripts from the fern _Adiantum capillus-veneris_. Gene 339: 89-97
 
 Pryer, K. M., E. Schuettpelz, P. G. Wolf, H. Schneider, A. R. Smith, R. Cranfill,. 2004. Phylogeny and evolution of ferns (monilophytes) with a focus on the early leptosporangiate divergences. American Journal of Botany 91: 1557-1581
 
 Nishiyama, T., M. Kugita, R. B. Sinclair, M. Sugita, C. Sugiura, T. Wakasugi, P. G. Wolf, K. Yamada, K. Yoshinaga, and M. Hasebe. 2004. Bryophytes are monophyletic and land plants comprise two extant lineages. Molecular Biology and Evolution, 21 (10): 1813-1819
 
-Wolf, P. G., B. Doche, L. Gielly and P. Taberlet. 2004. Genetic structure of Rhododendron ferrugineum at a wide range of spatial scales. Journal of Heredity 95: 301-308
+Wolf, P. G., B. Doche, L. Gielly and P. Taberlet. 2004. Genetic structure of _Rhododendron ferrugineum_ at a wide range of spatial scales. Journal of Heredity 95: 301-308
 
 <br />
 
 ### 2003
 
-Wolf, P. G., C. A. Rowe, R. B. Sinclair, M. Hasebe. 2003. Complete nucleotide sequence of the chloroplast genome from a leptosporangiate fern, Adiantum capillus-veneris L. DNA Research 10 (2): 59-64.
+Wolf, P. G., C. A. Rowe, R. B. Sinclair, M. Hasebe. 2003. Complete nucleotide sequence of the chloroplast genome from a leptosporangiate fern, _Adiantum capillus-veneris_ L. DNA Research 10 (2): 59-64.
 
 <br />
 
@@ -220,13 +220,13 @@ Schneider, H., K. M. Pryer, R. Cranfill, A. R. Smith, P. G. Wolf. 2002. Phylogen
 
 Rowe, D. L., M. T. Murphy, R. C. Fleischer, and P. G. Wolf. 2001. High frequency of extra-pair paternity in Eastern Kingbirds. Condor 103: 845-851.
 
-Sipes, S. D. and P. G. Wolf. 2001. Phylogenetic relationships within Diadasia, a group of specialist bees. Molecular Phylogenetics and Evolution 19: 144-156.
+Sipes, S. D. and P. G. Wolf. 2001. Phylogenetic relationships within _Diadasia_, a group of specialist bees. Molecular Phylogenetics and Evolution 19: 144-156.
 
-Smith, A. R., H. Tuomisto, K. M. Pryer, J. S. Hunt, P. G. Wolf. 2001. Metaxya lanosa, a second species in the genus and fern family Metaxyaceae. Systematic Botany 26: 480-486.
+Smith, A. R., H. Tuomisto, K. M. Pryer, J. S. Hunt, P. G. Wolf. 2001. _Metaxya lanosa_, a second species in the genus and fern family Metaxyaceae. Systematic Botany 26: 480-486.
 
-Archibald J.K., P.G. Wolf, V. J. Tepedino, and J. Bair. 2001. Genetic relationships and population structure of the endangered steamboat buckwheat, Eriogonum ovalifolium var. williamsiae (Polygonaceae). American Journal of Botany 88: 608-615.
+Archibald J.K., P.G. Wolf, V. J. Tepedino, and J. Bair. 2001. Genetic relationships and population structure of the endangered steamboat buckwheat, _Eriogonum ovalifolium var. williamsiae_ (Polygonaceae). American Journal of Botany 88: 608-615.
 
-Wolf, P. G., D. R. Campbell, N. M. Waser, *S. D. Sipes, T. R. Toler, and &J. K. Archibald. 2001. Tests of pre-and post-pollination barriers to hybridization between sympatric species of Ipomopsis (Polemoniaceae). American Journal of Botany 88: 213-219.
+Wolf, P. G., D. R. Campbell, N. M. Waser, *S. D. Sipes, T. R. Toler, and &J. K. Archibald. 2001. Tests of pre-and post-pollination barriers to hybridization between sympatric species of _Ipomopsis_ (Polemoniaceae). American Journal of Botany 88: 213-219.
 
 Wolf, P. G., H. Schneider, and T. A. Ranker. 2001. Geographic distributions of homosporous fern taxa: does dispersal obscure evidence of vicariance? Journal of Biogeography 28: 263-270.
 
