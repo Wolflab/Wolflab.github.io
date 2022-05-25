@@ -98,7 +98,7 @@ Davidson, J. B. S. L. Durham, and P. G. Wolf. 2014. Breeding system of the threa
 
 ### 2013
 
-Rai, H. S., K. E. Mock, B. A. Richardson, R. C. Cronn, K. J. Jayden, J. W. Wright, B. J. Knaus, P. G. Wolf. 2013. Transcriptome characterization and detection of gene expression differences in aspen (Populus tremuloides). Tree Genetics and Genomes 9: 1031-1041. DOI: 10.1007/s11295-013-0615-y.
+Rai, H. S., K. E. Mock, B. A. Richardson, R. C. Cronn, K. J. Jayden, J. W. Wright, B. J. Knaus, P. G. Wolf. 2013. Transcriptome characterization and detection of gene expression differences in aspen (_Populus tremuloides_). Tree Genetics and Genomes 9: 1031-1041. DOI: 10.1007/s11295-013-0615-y.
 
 Mock, K. E., B. A. Richardson, and P. G. Wolf. 2013. Molecular tools and aspen management: a primer and prospectus. Forest Ecology and Management 299: 6-13
 
@@ -112,7 +112,7 @@ Campbell, D.T., Longhurst, M., Duffy, A. M, Wolf, P. G., & Shelton, B. E. 2013. 
 
 Campbell, D.T., Longhurst, M., Duffy, A. M., Wolf, P. G., & Nagy, R. 2012. Investigating human impact in the environment with faded scaffolded inquiry supported by technologies. Science Activities. 49: 4
 
-Mock, K.E., Callahan, C.M., Islam-Faridi, M.N., Shaw, J.D., Rai, H.S., Sanderson, S.C., Rowe, C.A., Ryel, R.J., Madritch, M.D., Gardner, R.S., Wolf, P.G., 2012. Widespread triploidy in western North American aspen (Populus tremuloides). [PLoS ONE 7(10): e48406](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048406). doi:10.1371/journal.pone.0048406
+Mock, K.E., Callahan, C.M., Islam-Faridi, M.N., Shaw, J.D., Rai, H.S., Sanderson, S.C., Rowe, C.A., Ryel, R.J., Madritch, M.D., Gardner, R.S., Wolf, P.G., 2012. Widespread triploidy in western North American aspen (_Populus tremuloides_). [PLoS ONE 7(10): e48406](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048406). doi:10.1371/journal.pone.0048406
 
 Wolf, P. G. and K. G. Karol. 2012. Plastomes of bryophytes, lycophytes and ferns. Pages 89 – 102 In Advances in Photosynthesis and Respiration. Vol 35. “Genomics of chloroplasts and mitochondria”. Editors: Ralph Bock & Volker Knoop. Springer, Dordrecht.
 
@@ -124,11 +124,11 @@ Campbell, D. T, P. G. Wolf, J. P. Der, E. Packenham, and N. Abd-Hamid. 2012. Sci
 
 ### 2011
 
-Davidson, J. B. and P. G. Wolf. 2011. Natural history of Maguire primrose, Primula cusickiana var. maguirei (Primulaceae). Western North American Naturalist 71: 327 – 337.
+Davidson, J. B. and P. G. Wolf. 2011. Natural history of Maguire primrose, _Primula cusickiana_ var. _maguirei_ (Primulaceae). Western North American Naturalist 71: 327 – 337.
 
 Banks, J. A., T. Nishiyama, M. Hasebe, J. L. Bowman, M. Gribskov, C. dePamphilis, P. G. Wolf et al. 2011. The Selaginella genome identifies changes in gene content associated with the evolution of vascular plants. Science 332: 960-963. DOI: 10.1126/science.1203810.
 
-Der, J. P., M. S. Barker , N. J. Wickett, C. W. dePamphilis, P. G. Wolf. 2011. De novo characterization of the gametophyte transcriptome in bracken fern, Pteridium aquilinum. BMC Genomics 12: 99. doi:10.1186/1471-2164-12-99.
+Der, J. P., M. S. Barker , N. J. Wickett, C. W. dePamphilis, P. G. Wolf. 2011. De novo characterization of the gametophyte transcriptome in bracken fern, _Pteridium aquilinum_. BMC Genomics 12: 99. doi:10.1186/1471-2164-12-99.
 
 Wolf P.G., Der J.P., Duffy A.M., Davidson J.B., Grusz A.L., Pryer K.M. 2011. The evolution of chloroplast genes and genomes in ferns. Plant Molecular Biology 76: 251-261. DOI 10.1007/s11103-010-9706-4.
 
@@ -136,7 +136,7 @@ Wolf P.G., Der J.P., Duffy A.M., Davidson J.B., Grusz A.L., Pryer K.M. 2011. The
 
 ### 2010
 
-Karol, K. G., Arumuganathan, K., Boore, J. L., Duffy, A. M., Everett, K. D. E., Hall, J. D., &Hansen, S. K., Kuehl, J. V., Mandoli, D. F., Mishler, B. D., Olmstead, R. G., Renzaglia, K. S., Wolf, P. G. 2010. Complete plastome sequences of Equisetum arvense and Isoetes flaccida: implications for phylogeny and plastid genome evolution of early land plant lineages. BMC Evol. Biol. 10: 321.
+Karol, K. G., Arumuganathan, K., Boore, J. L., Duffy, A. M., Everett, K. D. E., Hall, J. D., &Hansen, S. K., Kuehl, J. V., Mandoli, D. F., Mishler, B. D., Olmstead, R. G., Renzaglia, K. S., Wolf, P. G. 2010. Complete plastome sequences of _Equisetum arvense_ and _Isoetes flaccida_: implications for phylogeny and plastid genome evolution of early land plant lineages. BMC Evol. Biol. 10: 321.
 
 Campbell, D. T., S. W. Wang, H‐Y. Hsu, A. M. Duffy, and P. G. Wolf. 2010. Learning with Web Tools, Simulations, and Other Technologies in Science Classrooms. Journal of Science Education and Technology 19:505-511.
 
@@ -154,11 +154,11 @@ Ellis, M. W. and P. G. Wolf. 2010. Teaching Species. Evolution: Education and Ou
 
 Wolf, P. G., A. M. Duffy, and J.M. Roper. 2009. Phylogenetic use of inversions in fern chloroplast genomes. American Fern Journal 99:132-133.
 
-Ellis, M. W., J. M. Roper, &R. Gainer, J. P. Der, and P. G. Wolf. 2009. The taxonomic designation of Eriogonum corymbosum var. nilesii (Polygonaceae) is supported by AFLP and cpDNA analyses. Systematic Botany 34: 693-703.
+Ellis, M. W., J. M. Roper, &R. Gainer, J. P. Der, and P. G. Wolf. 2009. The taxonomic designation of _Eriogonum corymbosum var. nilesii_ (Polygonaceae) is supported by AFLP and cpDNA analyses. Systematic Botany 34: 693-703.
 
 Duffy, A. M., S. A. Kelchner, and P. G. Wolf. 2009. Conservation of selection on matK following an ancient loss of its flanking intron. Gene 438: 17-25.
 
-Der, J. P., J. A. Thomson, J. K. Stratford & P. G. Wolf. 2009. Global chloroplast phylogeny and biogeography of bracken (Pteridium: Dennstaedtiaceae). American Journal of Botany 96: 1041-1049.
+Der, J. P., J. A. Thomson, J. K. Stratford & P. G. Wolf. 2009. Global chloroplast phylogeny and biogeography of bracken (_Pteridium_: Dennstaedtiaceae). American Journal of Botany 96: 1041-1049.
 
 <br />
 
@@ -166,7 +166,7 @@ Der, J. P., J. A. Thomson, J. K. Stratford & P. G. Wolf. 2009. Global chloroplas
 
 Bjerregaard, L. and P. G. Wolf. 2008. Strong genetic differentiation among neighboring populations of a locally endemic primrose. Western North American Naturalist 68: 66-75.
 
-Wickett, N. J. , Y. Zhang, &S. K. Hansen, J. M. Roper, J. V. Kuehl, S. A. Plock, B. Goffinet, P. G. Wolf, C. W. dePamphilis, Jeffrey L. Boore. 2008. Functional gene losses occur with minimal size reduction in the plastid genome of the parasitic liverwort Aneura mirabilis. Molecular Biology and Evolution 25: 393–401.
+Wickett, N. J. , Y. Zhang, &S. K. Hansen, J. M. Roper, J. V. Kuehl, S. A. Plock, B. Goffinet, P. G. Wolf, C. W. dePamphilis, Jeffrey L. Boore. 2008. Functional gene losses occur with minimal size reduction in the plastid genome of the parasitic liverwort _Aneura mirabilis_. Molecular Biology and Evolution 25: 393–401.
 
 Wolf, P.G. and J. M. Roper. 2008. Structure and evolution of fern plastid genomes. In: “Biology and Evolution of Ferns and Lycophytes” Edited by Tom A. Ranker and Christopher H. Haufler (Cambridge University Press)
 
@@ -176,7 +176,7 @@ Smith, A. R., K. M. Pryer, E. Schuettpelz, P. Korall, H. Schneider, & P. G. Wolf
 
 ### 2007
 
-Roper, J.M, &S.K. Hansen, P.G. Wolf , K.G. Karol KG, D.F. Mandoli, K.D.E. Everett, J. Kuehl, J.L. Boore. 2007. The Complete Plastid Genome Sequence of Angiopteris evecta (G. Forst.) Hoffm. (Marattiaceae). American Fern Journal 97 (2): 95-106
+Roper, J.M, &S.K. Hansen, P.G. Wolf , K.G. Karol KG, D.F. Mandoli, K.D.E. Everett, J. Kuehl, J.L. Boore. 2007. The Complete Plastid Genome Sequence of _Angiopteris evecta_ (G. Forst.) Hoffm. (Marattiaceae). American Fern Journal 97 (2): 95-106
 
 <br />
 
@@ -188,7 +188,7 @@ Smith, A. R., K. M. Pryer, E. Schuettpelz, P. Korall, H. Schneider & P. G. Wolf.
 
 ### 2005
 
-Wolf, P.G, K.G. Karol, D. F. Mandoli, J. Kuehl, K. Arumuganathan, M. W. Ellis, B. D. Mishler, D. G. Kelch, R. G. Olmstead, J. L. Boore. 2005. The first complete chloroplast genome sequence of a lycophyte, Huperzia lucidula (Lycopodiaceae). Gene 350: 117-128.
+Wolf, P.G, K.G. Karol, D. F. Mandoli, J. Kuehl, K. Arumuganathan, M. W. Ellis, B. D. Mishler, D. G. Kelch, R. G. Olmstead, J. L. Boore. 2005. The first complete chloroplast genome sequence of a lycophyte, _Huperzia lucidula_ (Lycopodiaceae). Gene 350: 117-128.
 
 <br />
 
