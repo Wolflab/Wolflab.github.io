@@ -13,6 +13,9 @@ graduate_students:
   description: A graduate student.
   name: Rijan Dhakal
 undergraduate_students:
+- description: ''
+  photo: "/uploads/jake.JPG"
+  name: Jake Carter
 - description: Our very diligent undergraduate member working with ferns.
   photo: "/uploads/alexa.JPG"
   name: Alexa Nolan
