@@ -21,6 +21,10 @@ undergraduate_students:
   photo: "/uploads/alexa.JPG"
   name: Alexa Nolan
 recent_alumni:
+- name: Sylvia Kinosian
+  description: Post doc with Norma Wickett at Negaunee Institute for Plant Conservation
+    Science, Chicago Botanic Garden
+  photo: ''
 - name: Tanner Robison
   description: now a PhD student at Cornell University
   photo: ''
