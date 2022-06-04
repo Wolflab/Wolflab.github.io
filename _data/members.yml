@@ -12,7 +12,8 @@ graduate_students:
   description: Drew is interested in the effects of titanium on growth and development
     of radishes
 - photo: "/uploads/grad1.JPG"
-  description: A graduate student.
+  description: Rijan is interested the genomic changes associated with heterospory
+    across land plants
   name: Rijan Dhakal
 undergraduate_students:
 - description: Jake is working on genetics of the rare plant <i>Clematis morfieldii</i>
