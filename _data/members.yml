@@ -5,7 +5,8 @@ researchers: []
 graduate_students:
 - name: Ben Cecil
   photo: "/uploads/grad3.JPG"
-  description: ''
+  description: Ben works on population genetics of Tiehm's buckwheat; a wild plant
+    found only on soils in Nevada with high levels of lithium
 - name: Drew Bryan
   photo: "/uploads/grad2.JPG"
   description: Drew is interested in the effects of titanium on growth and development
