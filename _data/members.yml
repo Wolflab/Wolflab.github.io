@@ -21,6 +21,10 @@ undergraduate_students:
   photo: "/uploads/alexa.JPG"
   name: Alexa Nolan
 recent_alumni:
+- name: Austin Koontz
+  description: Research Assistant in the Hoban Conservation Lab, with the Center for
+    Tree Science at the Morton Arboretum
+  photo: ''
 - name: Sylvia Kinosian
   description: Post doc with Norma Wickett at Negaunee Institute for Plant Conservation
     Science, Chicago Botanic Garden
