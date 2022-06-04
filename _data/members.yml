@@ -21,7 +21,7 @@ undergraduate_students:
   photo: "/uploads/alexa.JPG"
   name: Alexa Nolan
 recent_alumni:
-- name: Austin Koontz
+- name: <a href="https://akoontz11.netlify.app/">Austin Koontz</a>
   description: Research Assistant in the Hoban Conservation Lab, with the Center for
     Tree Science at the Morton Arboretum
   photo: ''
