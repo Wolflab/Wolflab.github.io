@@ -2,7 +2,6 @@
 layout: general
 background: "/uploads/DSC_0647-1280x640.jpg"
 title: Research
-published: false
 
 ---
 Thank you for your interest in my research.
