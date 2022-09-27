@@ -18,7 +18,9 @@ recent_publications:
 latest_news:
 - name: "2022"
   news:
-  - Several new papers in 2022
+  - |-
+    Several new papers in 2022, including the genome sequence of <i>Ceratopteris</i>, with Rijan and Paul as authors
+    Drew and Ben defend
   - 'March: New website launched'
 - name: "2020"
   news:
