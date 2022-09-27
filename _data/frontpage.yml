@@ -18,10 +18,10 @@ recent_publications:
 latest_news:
 - name: "2022"
   news:
-  - |-
-    Several new papers in 2022, including the genome sequence of <i>Ceratopteris</i>, with Rijan and Paul as authors
-    March 2022: Drew defends his thesis
-    June 2022: Ben defends his thesis
+  - 'June 2022: Ben defends his thesis'
+  - 'March 2022: Drew defends his thesis'
+  - Several new papers in 2022, including the genome sequence of <i>Ceratopteris</i>,
+    with Rijan and Paul as authors.
   - 'March: New website launched'
 - name: "2020"
   news:
