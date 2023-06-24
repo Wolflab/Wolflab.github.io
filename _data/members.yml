@@ -6,20 +6,25 @@ graduate_students:
 - name: Ben Cecil
   photo: "/uploads/grad3.JPG"
   description: Ben works on population genetics of Tiehm's buckwheat; a wild plant
-    found only on soils in Nevada with high levels of lithium
+    found only on soils in Nevada with high levels of lithium. Ben graduated the fall
+    of 2022!
 - name: Drew Bryan
   photo: "/uploads/grad2.JPG"
   description: Drew is interested in the effects of titanium on growth and development
-    of radishes
+    of radishes. He finished his master's the spring of 2022 and is not continuing his phd
+    at UAH.
 - photo: "/uploads/grad1.JPG"
   description: Rijan is interested the genomic changes associated with heterospory
-    across land plants
+    across land plants. He graduated the fall of 2022, and is now working on a novel metabolomics
+    pipeline at the Donald Danforth Plant Sciences center. He is also working on turning his thesis into
+    a journal publication.
   name: Rijan Dhakal
 undergraduate_students:
 - description: Jake is working on genetics of the rare plant <i>Clematis morfieldii</i>
   photo: "/uploads/jake.JPG"
   name: Jake Carter
-- description: Alexa is working on expression of phytochrome genes in fern gametophytes
+- description: Alexa is working on expression of phytochrome genes in fern gametophytes.
+    She will be pursuing her PhD at Texas A & M!
   photo: "/uploads/alexa.JPG"
   name: Alexa Nolan
 recent_alumni:
